@@ -25,7 +25,8 @@ This project is suitable for **portfolio showcase**, **internship tasks**, and *
 ---
 
 ## 📸 Preview
-<img width="1919" height="913" alt="Screenshot 2026-03-05 000604" src="https://github.com/user-attachments/assets/37949aa8-f0f8-4e3a-87f6-3e0ee21528ad" />
+<img width="1919" height="913" alt="Screenshot 2026-03-05 000604" src="https://github.com/user-attachments/assets/9c37ff58-7731-4a85-bc4a-69d68a1190bd" />
+
 
 ---
 
